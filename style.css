@@ -1,0 +1,12 @@
+.top-navbar {
+  margin-top: 20px;
+  height: 50px;
+	width: 100%;
+}
+
+.allineata * {
+  display: inline-block;
+}
+#topdxnav {
+  float: right;
+}
