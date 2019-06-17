@@ -1,12 +1,19 @@
-.top-navbar {
-  margin-top: 20px;
-  height: 50px;
+/* navbar */
+.top-navbar .sotto-navbar {
+  vertical-align: center;
+  margin-top: 10px;
+  height: 20px;
 	width: 100%;
 }
-
 .allineata * {
   display: inline-block;
 }
-#topdxnav {
+.allineata > .btn.btn-default.btn-sm {
+    margin-left: 90%;
+}
+.destra {
   float: right;
+}
+.sinistra {
+  float: left;
 }
