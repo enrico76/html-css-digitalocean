@@ -5,6 +5,9 @@
   height: 20px;
 	width: 100%;
 }
+#color {
+  background-color: #b6e1f2;
+}
 .allineata * {
   display: inline-block;
 }
