@@ -77,10 +77,17 @@
 }
 /* sezione2 */
 
-#colore3 {
+.colore3 {
   background-color: #f3f5f9;
 }
 /* sezione3 */
-/* .navbarvert {
- top: 10%;
-} */
+
+/* sezione4 */
+.boxsect4 {
+  text-align: center;
+  margin-top: 5%;
+
+}
+.boxsect4 > div:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
+ margin-left: 91px;
+}
