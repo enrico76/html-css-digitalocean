@@ -81,10 +81,6 @@
   background-color: #f3f5f9;
 }
 /* sezione3 */
-#navbarvert {
- top: 80px;
-
-}
-#navbarvert > ul > li {
-  margin-top: 5%;
-}
+/* .navbarvert {
+ top: 10%;
+} */
