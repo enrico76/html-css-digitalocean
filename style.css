@@ -96,3 +96,9 @@ div.container:nth-child(7) > div:nth-child(1) > h2:nth-child(1) {
  text-align: center;
  margin-top: 5%;
 }
+/* sezione 6 */
+.sfondo {
+  background-image: url("img/sfondo6.png");
+  text-align: center;
+  color: white;
+}
