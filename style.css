@@ -88,6 +88,11 @@
   margin-top: 5%;
 
 }
-.boxsect4 > div:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
- margin-left: 91px;
+div.boxsect4:nth-child(2) > div:nth-child(1) > img:nth-child(1) {
+ margin-left: 10%;
+}
+/* sezione 5 */
+div.container:nth-child(7) > div:nth-child(1) > h2:nth-child(1) {
+ text-align: center;
+ margin-top: 5%;
 }
