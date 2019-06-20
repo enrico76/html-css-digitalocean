@@ -109,7 +109,7 @@ div.container-fluid:nth-child(9) > div:nth-child(2) > div:nth-child(1) > img:nth
 .tabella {
   margin-left: 50px;
   }
-.tabella th {
+.tabella ,th ,td {
   padding-left: 20px;
   padding-right: 20px;
 }
